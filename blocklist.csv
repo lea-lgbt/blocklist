@@ -147,10 +147,9 @@ skippers-bin.com,suspend,false,false,lolicon,false
 witches.live,suspend,false,false,admin known for her racist takes,false
 seal.cafe,suspend,false,false,"racism, anti-queer",false
 shitpost.poridge.club,suspend,false,false,"racism, free speech Instanz",false
-mastinator.com,suspend,false,false,Scraping von toots,false
-furry.lgbt,suspend,false,false,"kein safe-space für BIPoC, da Admins auf Kritik dieser nicht eingehen wollen",false
+mastinator.com,suspend,false,false,Scraping of toots,false
 endtimebelievers.com,suspend,false,false,"""free speech"", Christo-Faschismus",false
-mastodon.hirad.it,suspend,false,false,Admin hat kein Problem mit trans hostility,false
+mastodon.hirad.it,suspend,false,false,admin tolerates trans hostility,false
 hwfo.online,suspend,false,false,"""free speech"", mocking von Pronomen",false
 arachnid.zone,suspend,false,false,"""free speech"", federation with fashists",false
 addy.gg,suspend,false,false,"""free speech"", poor moderation",false
@@ -162,7 +161,6 @@ poweredbycocaine.com,suspend,false,false,Nazis,false
 sleepy.cafe,suspend,false,false,anti-queer,false
 federated.fun,suspend,false,false,trans hostility,false
 refusal.llc,suspend,false,false,"lolicon, federation with Nazis",false
-lgbtqia.space,silence,false,false,kein safe-space für BIPoC,false
 fediversealmanac.com,suspend,false,false,Scraping,false
 nightshift.social,suspend,false,false,Admins call on others to commit suicide,false
 beefyboys.win,suspend,false,false,racism,false
@@ -178,7 +176,7 @@ troll.cafe,suspend,false,false,"""free speech"", federation with fashists",false
 netz.darknight-coffee.org,suspend,false,false,"racism, anti-queer",false
 pizzaf.art,suspend,false,false,nazis,false
 hornyjail.pro,suspend,false,false,"Admin is also present on fascist instances, many red flags",false
-bylines.social,suspend,false,false,TERF-Rhetorik und fehlende Einsicht,false
+bylines.social,suspend,false,false,TERFs,false
 oddballs.vip,suspend,false,false,Admin is chaser,false
 pengi-san.moe,suspend,false,false,lolicon ,false
 staging.kazar.ma,suspend,false,false,"Fedi-Scraper, ActivityPub-to-Matrix Bridge",false
