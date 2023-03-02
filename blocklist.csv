@@ -1,0 +1,239 @@
+#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+baraag.net,suspend,false,false,"lolicon, child-porn",false
+bae.st,suspend,false,false,"fashism, harassment",false
+beefyboys.win,suspend,false,fale,"national socialism",false
+cawfee.club,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+cum.salon,suspend,false,fale,"homomisia, racism, suicide proposal",false
+chudbuds.lol,suspend,false,fale,"gore, racism, homomisia, trans hostility, anti-semitism",false
+club.darknight-coffee.eu,suspend,false,false,"""free speech zone""",false
+comfyboy.club,suspend,false,false,"discrimination, racism",false
+daishouri.moe,suspend,false,false,fashism,false
+detroitriotcity.com,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+gegenstimme.tv,suspend,false,false,"""free speech zone""",true
+freeatlantis.com,suspend,false,fale,"Trumpism, Ultra-MAGA",false
+freecumextremist.com,suspend,false,fale,"rape",false
+freespeechextremist.com,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+freefedifollowers.ga,suspend,false,false,spam,false
+frennet.link,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+f.haeder.net,suspend,false,false,discrimination,false
+gab.ai,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+gab.com,suspend,false,false,"racism, hatespeech, ""free speech""",false
+gameliberty.club,suspend,false,false,"racism, lolicon"
+gitmo.life,suspend,false,false,"""free speech zone""",false
+gleasonator.com,suspend,false,fale,"racism, AntiSemitism, TransMisia",false
+glindr.org,suspend,false,false,discrimination,false
+glowers.club,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+iddqd.social,suspend,false,fale,"TransMisia, racism, AntiSemitism, conspiracism",false
+noagendasocial.com,suspend,false,false,"anti-semitism, racism",false
+nicecrew.digital,suspend,false,fale,"racism",false
+paypig.org,suspend,false,false,racism,false
+pawoo.net,suspend,false,false,"national socialism",false
+pieville.net,suspend,false,false,"anti semitism, national socialism, racism, ableism, homo-misia",false
+poa.st,suspend,false,false,"racism, homomisia, violence, conspiracism",false
+rdrama.cc,suspend,false,fale,"racism",false
+ryona.agency,suspend,false,fale,"racism, ansi semitism, misogyny, trans hostility",false
+shitposter.club,suspend,false,false,"racism",false
+spinster.xyz,suspend,false,false,"trans hostility", false
+yggdrasil.social,suspend,false,fale,"national socialism, racism, trans hostility",false
+honkwerx.tech,suspend,false,false,racism,false
+itmslaves.com,suspend,false,false,"""free speech zone""",false
+jaeger.website,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+kenfm.quadplay.tv,suspend,false,false,Verschwörungstheoretische Inhalte,false
+kiwifarms.cc,suspend,false,false,discrimination,false
+libre.tube,suspend,false,false,Verherrlichung von Mord,false
+mastodon.popps.org,suspend,false,false,discrimination,false
+meta-tube.de,suspend,false,false,"conspiracy theories, COVID-19 deniers",false
+midnightride.rs,suspend,false,false,discrimination,false
+mstdn.foxfam.club,suspend,false,false,Twitter-Mirror from right-wing accounts,false
+nicecrew.digital,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+ns.auction,suspend,false,false,Rechtsextreme Inhalte,false
+newjack.city,suspend,false,false,ungewünschte Bots,false
+noagendasocial.com,suspend,false,false,"""free speech zone""",false
+pieville.net,suspend,false,false,"racism, Antisemitismus",false
+play.xmr.101010.pl,suspend,false,false,crypto-mining,false
+pleroma.rareome.ga,suspend,false,false,"circumvention of blocks, lolicons",false
+pleroma.kitsunemimi.club,suspend,false,false,discrimination,false
+pleroma.nobodyhasthe.biz,suspend,false,false,doxxing,false
+pleroma.narrativerry.xyz,suspend,false,false,"anti-queer, racism, Ableismus",false
+freeatlantis.com,suspend,false,false,Nazis,false
+posting.lolicon.rocks,suspend,false,false,"trans hostility, lolicon",false
+pl.natehiggers.online,suspend,false,false,racism,false
+pl.info.natehiggers.online,suspend,false,false,racism,false
+shitposter.club,suspend,false,false,"""free speech zone""",false
+sneak.berlin,suspend,false,false,Privacy bypass,false
+social.urspringer.de,suspend,false,false,COVID-19 deniers,false
+social.ancreport.com,suspend,false,false,"discrimination, racism, ""free speech zone""",false
+socnet.supes.com,suspend,false,false,"""free speech zone""",false
+solagg.com,suspend,false,false,Scam,false
+toot.canberrasocial.net,suspend,false,false,"""free speech zone""",false
+tube.kenfm.de,suspend,false,false,conspiracy theories,false
+tube.querdenken-711.de,suspend,false,false,conspiracy theories,false
+twitter.activitypub.actor,suspend,false,false,twitter-crossposting-bot,false
+twtr.plus,suspend,false,false,twitter-crossposting-bot,false
+varishangout.net,suspend,false,false,trans hostility,false
+wiki-tube.de,suspend,false,false,"right-wing, conspiracy theories, antivaxxers",false
+wintermute.fr.to,suspend,false,false,discrimination,false
+yggdrasil.social,suspend,false,false,discrimination,false
+beta.birdsite.live,silence,false,false,Twitter-Crossposter,false
+birb.elfenban.de,silence,false,false,Twitter-Crossposter,false
+bird.evilcyberhacker.net,silence,false,false,Twitter-Crossposter,false
+bird.froth.zone,silence,false,false,Twitter-Crossposter,false
+bird.nzbr.de,silence,false,false,Twitter-Crossposter,false
+birdbots.leptonics.com,silence,false,false,Twitter-Crossposter,false
+birdsite.b93.dece.space,silence,false,false,Twitter-Crossposter,false
+birdsite.link,silence,false,false,Twitter-Crossposter,false
+birdsite.monster,silence,false,false,Twitter-Crossposter,false
+birdsite.slashdev.space,silence,false,false,Twitter-Crossposter,false
+birdsitelive.treffler.cloud,silence,false,false,Twitter-Crossposter,false
+birdsite.wilde.cloud,silence,false,false,Twitter-Crossposter,false
+bridge.birb.space,silence,false,false,Twitter-Crossposter,false
+social.xcess.one,suspend,false,false,„free speech zone“,false
+eatthebugs.social,suspend,false,false,Antisemitismus,false
+spinster.xyz,suspend,false,false,trans hostility,false
+neenster.org,suspend,false,false,trans hostility,false
+cryptodon.lol,suspend,false,false,Crypto-Bros,false
+fedsearch.io,suspend,false,false,Scraper,false
+pl.tkammer.de,suspend,false,false,trans hostility,false
+poster.place,suspend,false,false,trans hostility,false
+rojogato.com,suspend,false,false,trans hostility,false
+privex.social,suspend,false,false,free speech instance,false
+mastodon.se,suspend,false,false,Antisemitismus seitens des Admins,false
+freethinkers.lgbt,suspend,false,false,„free speech instance“,false
+lolison.top,suspend,false,false,"",false
+mastodonapp.uk,suspend,false,false,TERFs ,false
+rapemeat.solutions,suspend,false,false,"",true
+bitcoinhackers.org,suspend,false,false,"crypto, ""free speech""",false
+qoto.org,suspend,false,false,"""free speech"" instance",false
+journa.host,suspend,false,false,"Admin uses stalker software of far-right forum with the Kiwi to find out who is blocking the instance.",false
+asbestos.cafe,suspend,false,false,Nazis,false
+clubcyberia.co,suspend,false,false,trans hostility,false
+truthsocial.co.in,suspend,false,false,Fashism,false
+shitpost.cloud,suspend,false,false,"unmoderated instance, admin uses fashist memes in profile",false
+graz.social,suspend,false,false,Admin does tone policing and defends TERFs,false
+unbound.social,suspend,false,false,"Crypto, ""free speech""",false
+infosec.exchange,suspend,false,false,"Actively invites cops to the instance (more precisely: CISA, part of the so-called "Homeland Security").",false
+cyberstorm.one,suspend,false,false,Nazis,false
+genderheretics.xyz,suspend,false,false,trans hostility,false
+collapsitarian.io,suspend,false,false,"crypto, anti-islam",false
+mk.starnix.io,suspend,false,false,racism,false
+alive.bar,suspend,false,false,racism,false
+blob.cat,suspend,false,false,Too little moderation and defederation,false
+hidamari.apartments,suspend,false,false,"Admin welcomes nazis with open arms, for ""discourse""",false
+snowdin.town,suspend,false,false,"gaslighting, insults, federation with nazi instance",false
+akko.disqordia.space,suspend,false,false,"racism, appropriation of Black community terms, nazi memes, sealioning",false
+ursal.zone,suspend,false,false,"repeated trans hostility of the admin, harassment-campaigns",false
+misskey-forkbomb.cf,suspend,false,false,Spam,false
+froth.zone,suspend,false,false,racism,false
+activitypub-troll.cf,suspend,false,false,Spam,false
+whitesmokebbq.social,suspend,false,false,racism ,false
+notbird.site,suspend,false,false,domain was hijacked,false
+vsta.org,suspend,false,false,conspiracy theories and antivaxxers,false
+eightpoint.app,suspend,false,false,No adequate handling of abuse reports,false
+lolison.network,suspend,false,false,lolicon,false
+youjo.love,suspend,false,false,paedophilia,false
+refusal.biz,suspend,false,false,"assault, paedophilia, tolerance of CSAMs",false
+mugicha.club,suspend,false,false,"""free speech""",false
+raspberrypi.social,suspend,false,false,Cops,false
+handicapped.tk,suspend,false,false,Nazis,false
+freecumextremist.com,suspend,false,false,Nazis,false
+social.chocoflan.net,suspend,false,false,"scraping of domain blocks, fashism",false
+ak.kyaruc.moe,suspend,false,false,Nazis,false
+thecanadian.social,suspend,false,false,eco fashism,false
+zov.oti.st,suspend,false,false,"trans hostility, ""Anti-Woke"" Bullshit",false
+cryptotalks.social,suspend,false,false,Crypto bullshit,false
+lain.gay,suspend,false,false,"Ableismus, Antisemitismus",false
+public.mitra.social,suspend,false,false,Crypto bullshit,false
+skippers-bin.com,suspend,false,false,lolicon,false
+witches.live,suspend,false,false,admin known for her racist takes,false
+seal.cafe,suspend,false,false,"racism, anti-queer",false
+shitpost.poridge.club,suspend,false,false,"racism, free speech Instanz",false
+mastinator.com,suspend,false,false,Scraping von toots,false
+furry.lgbt,suspend,false,false,"kein safe-space für BIPoC, da Admins auf Kritik dieser nicht eingehen wollen",false
+endtimebelievers.com,suspend,false,false,"""free speech"", Christo-Faschismus",false
+mastodon.hirad.it,suspend,false,false,Admin hat kein Problem mit trans hostility,false
+hwfo.online,suspend,false,false,"""free speech"", mocking von Pronomen",false
+arachnid.zone,suspend,false,false,"""free speech"", federation with fashists",false
+addy.gg,suspend,false,false,"""free speech"", poor moderation",false
+librenet.co.za,suspend,false,false,COVID-denial,false
+c.im,suspend,false,false,"Black person banned because of own experience of racism, therefore no safe space for BIPoC",false
+boyter.org,suspend,false,false,Admin links to KiwiFarms tools,false
+mirr0r.city,suspend,false,false,"lolicon, Ableismus",false
+poweredbycocaine.com,suspend,false,false,Nazis,false
+sleepy.cafe,suspend,false,false,anti-queer,false
+federated.fun,suspend,false,false,trans hostility,false
+refusal.llc,suspend,false,false,"lolicon, federation with Nazis",false
+lgbtqia.space,silence,false,false,kein safe-space für BIPoC,false
+fediversealmanac.com,suspend,false,false,Scraping,false
+nightshift.social,suspend,false,false,Admins call on others to commit suicide,false
+beefyboys.win,suspend,false,false,racism,false
+cloudisland.online,suspend,false,false,Impersonation von cloudisland.nz,false
+blacksun.social,suspend,false,false,Nazis,false
+impeccable.social,suspend,false,false,Unterstützung von Nazis,false
+social.freetalklive.com,suspend,false,false,"""free speech"", poor moderation",false
+persia.social,suspend,false,false,Admin ist Fascho,false
+mastodon.fightforthefuture.org,suspend,false,false,web3-bullshit,false
+nationaljustice.social,suspend,false,false,Nazis,false
+ghetti.monster,suspend,false,false,"Nazis, admin is also operator of a CSAM website",false
+troll.cafe,suspend,false,false,"""free speech"", federation with fashists",false
+netz.darknight-coffee.org,suspend,false,false,"racism, anti-queer",false
+pizzaf.art,suspend,false,false,nazis,false
+hornyjail.pro,suspend,false,false,"Admin is also present on fascist instances, many red flags",false
+bylines.social,suspend,false,false,TERF-Rhetorik und fehlende Einsicht,false
+oddballs.vip,suspend,false,false,Admin is chaser,false
+pengi-san.moe,suspend,false,false,lolicon ,false
+staging.kazar.ma,suspend,false,false,"Fedi-Scraper, ActivityPub-to-Matrix Bridge",false
+soc.ua-fediland.de,suspend,false,false,nazis,false
+lgbtfree.zone,suspend,false,false,anti-queer,false
+breastmilk.club,suspend,false,false,anti-semitism,false
+mastodontech.de,silence,false,false,crypto and und techbros,false
+takesama.com,suspend,false,false,"fediscraper, absurd understanding of consent",false
+social.dev-wiki.de,suspend,false,false,tun nichts gegen Nazis,false
+squid.kids,suspend,false,false,"Holocaust denial, Ableismus, anti-queer",false
+decept.org,suspend,false,false,federation with fashists,false
+dragoncave.dev,suspend,false,false,federation with fashists,false
+freedomstrike.net,suspend,false,false,"conspiracy theories, federation with fashists",false
+kotobank.ch,suspend,false,false,federation with fashists,false
+tube.doctors4covidethics.org,suspend,false,false,conspiracy theories,false
+noagendatube.com,suspend,false,false,"crypto bros, federation with fashists",false
+unix.dog,suspend,false,false,federation with fashists,false
+banepo.st,suspend,false,false,anti-queer,false
+social.prospeech.space,suspend,false,false,""free speech", conspiracy theories, COVID-19 denial",false
+meld.de,suspend,false,false,"conspiracy theories, federation with fashists, anti-queer, ""free speech""",false
+rcsocial.net,suspend,false,false,"""free speech"", christo-fashism",false
+kibitz.cloud,suspend,false,false,"stalking, abuse",false
+thebased.club,suspend,false,false,"COVID-denial, trans hostility",false
+obo.sh,suspend,false,false,hosts Russia Today,false
+kitsunemimi.club,suspend,false,false,"racism, anti-queer, Ableismus",false
+nukem.biz,suspend,false,false,racism,false
+blog.chudbuds.org,suspend,false,false,"trans hostility, ""Anti-Woke"" Bullshit",false
+amala.schwartzwelt.xyz,suspend,false,false,racism and antisemitism,false
+contrapointsfan.club,suspend,false,false,CSAM,false
+newsie.social,suspend,false,false,"platform for trans-hostile content, especially also through actions of the admin.",false
+affiliates.social,suspend,false,false,spam,false
+cloudflare.social,suspend,false,false,cloudflare,false
+undefined.social,suspend,false,false,Fedi-Scraper,false
+analytodon.com,suspend,false,false,Analyse-Tool für Mastodon,false
+zztails.gay,suspend,false,false,racism,false
+noc.social,suspend,false,false,Fedi-Scraper,false
+rebelbase.site,suspend,false,false,trans hostility,false
+getimiskon.xyz,suspend,false,false,edgelords,false
+coolsite.win,suspend,false,false,trans hostility,false
+ryona.agency,suspend,false,false,anti-queer,false
+silliness.observer,suspend,false,false,trans hostility,false
+stereophonic.space,suspend,false,false,trans hostility,false
+mainburg.hallertau.social,suspend,false,false,"",false
+rot.gives,suspend,false,false,"""free speech"", anti-queer",false
+mastodon.cf,suspend,false,false,"trans hostility, poor moderation",false
+pod.vladtepesblog.com,suspend,false,false,Trolls,false
+epsilon.social,suspend,false,false,racism,false
+fedi.cybercriminal.eu,suspend,false,false,"federation with nazis, doxxing",false
+ggc-project.de,suspend,false,false,"""free speech"", poor moderation",false
+nikisoft.one,suspend,false,false,"""free speech"", poor moderation",false
+muensterland.social,suspend,false,false,"""free speech"", poor moderation",false
+mastodon.bayern,suspend,false,false,"""free speech"", poor moderation",false
+mstdn.es,suspend,false,false,"""free speech"", poor moderation",false
+sneed.social,suspend,false,false,*chan-stuff,false
+moth.social,suspend,false,false,VC-funded,false
+suya.place,suspend,false,false,"Ableismus, channers",false
+hellthread.church,suspend,false,false,"nukem.biz admin, discrimination",false
+fedi.cyuucat.moe,suspend,false,false,federation with unwanted instances,false
